@@ -1,4 +1,4 @@
-[![Build Status](http://31.172.85.130:8080/buildStatus/icon?job=Kha)](http://31.172.85.130:8080/job/Kha/) [![Build Status](https://travis-ci.org/KTXSoftware/Kha.svg?branch=master)](https://travis-ci.org/KTXSoftware/Kha)
+[![Build Status](http://31.172.85.130:8080/buildStatus/icon?job=Kha)](http://31.172.85.130:8080/job/Kha/) [![Build Status](https://travis-ci.org/MurphysHub/Kha.svg?branch=master)](https://travis-ci.org/MurphysHub/Kha)
 
 
 ## Kha
