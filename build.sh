@@ -1,5 +1,6 @@
 #!/bin/bash
 # Go up a folder (ONLY IF NEEDED), so khamake is called from the right directory
+# Edit
 FILETOCHECK="make.js"
 if [ -s "$FILETOCHECK" ]
 then
