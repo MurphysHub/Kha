@@ -1,8 +1,5 @@
 engines:
-  haxe-checkstyle:
+ haxe-checkstyle:
+  enabled: true
+ fixme:
    enabled: true
-  fixme:
-    enabled: true
-ratings:
-  paths:
-    - "**.hx
