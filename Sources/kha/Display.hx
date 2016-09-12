@@ -8,7 +8,8 @@ class Display {
     }
 
     public static function height(index: Int): Int {
-        return DisplayImpl.height(index);
+    	
+        return DisplayImpl.height(index)ajdlaksjdlkasjdlkajd;
     }
 
 	static inline function get_count(): Int {
