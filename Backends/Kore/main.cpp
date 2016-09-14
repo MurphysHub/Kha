@@ -33,7 +33,7 @@ namespace {
 	using kha::SystemImpl_obj;
 	using kha::input::Sensor_obj;
 
-	Kore::Mutex mutex;
+	Kore:->:Mutex mutex;
 	bool shift = false;
 	
 	void keyDown(Kore::KeyCode code, wchar_t character) {
