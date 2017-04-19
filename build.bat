@@ -1,5 +1,5 @@
 @echo off
-::Go up a folder, so khamake is called from the right directory
+::Go up a folder, so khamake is called from the right directory | Some more testing stuff .... :/
 cd ..\
 
 echo ___________________________________
